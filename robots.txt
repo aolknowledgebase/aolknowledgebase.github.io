@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://knowledgebaseaol.github.io/sitemap.xml
+Sitemap: https://aolknowledgebase.github.io/sitemap.xml
